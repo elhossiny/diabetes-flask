@@ -31,6 +31,8 @@ By default, flask will run on port 5000.
 Enter valid numerical values in all 8 input boxes and hit Predict.
 
 If everything goes well, you should  be able to see the predicted patient status on the HTML page!
+![image](https://user-images.githubusercontent.com/10856626/73582991-7f51b380-4498-11ea-89e3-7557ed661241.png)
+![image](https://user-images.githubusercontent.com/10856626/73582997-85e02b00-4498-11ea-97c5-34433fb71ac8.png)
 
 
 4. You can also send direct POST requests to FLask API using Python's inbuilt request module
